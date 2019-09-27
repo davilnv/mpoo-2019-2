@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Diagramas"/>
+	<classpathentry kind="src" path="Aula02"/>
+	<classpathentry kind="src" path="Aula03"/>
+	<classpathentry kind="src" path="Aula04"/>
+	<classpathentry kind="src" path="Aula05"/>
+	<classpathentry kind="src" path="Aula06"/>
+	<classpathentry kind="src" path="MVC"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
